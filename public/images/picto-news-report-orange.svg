@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 132 132" style="enable-background:new 0 0 132 132;" xml:space="preserve" width="132" height="132">
+<style type="text/css">
+	.st0{fill:#D04A02;}
+</style>
+<g>
+	<path class="st0" d="M114.2,22.7V0H0v120.3c0,6.5,5.3,11.7,11.7,11.7h108.5c6.5,0,11.7-5.3,11.7-11.7V22.7H114.2z M11.7,126.4
+		c-3.4,0-6.1-2.7-6.1-6.1V5.6h102.9v114.6c0,2.2,0.6,4.3,1.7,6.1H11.7z M126.4,120.3c0,3.4-2.7,6.1-6.1,6.1s-6.1-2.7-6.1-6.1v-92
+		h12.2L126.4,120.3L126.4,120.3z"/>
+	<rect x="15.9" y="27.7" class="st0" width="82.3" height="5.6"/>
+	<rect x="15.9" y="46" class="st0" width="36.6" height="5.6"/>
+	<rect x="15.9" y="64.3" class="st0" width="36.6" height="5.6"/>
+	<rect x="15.9" y="82.7" class="st0" width="36.6" height="5.6"/>
+	<rect x="15.9" y="101" class="st0" width="36.6" height="5.6"/>
+	<path class="st0" d="M58.8,106.6H101V46H58.8V106.6z M64.5,51.7h31V101h-31V51.7z"/>
+</g>
+</svg>
